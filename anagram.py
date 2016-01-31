@@ -1,4 +1,8 @@
 #program which takes a string from user and writes the anagrams of the string to an output file.
+
+# Input format example :python anagram.py ramesh
+# this will generate all the anagrams of the string and the output will be written to a text file called anagram_out.txt
+
 __author__ = 'Aditya'
 
 #Function to swap two elements
